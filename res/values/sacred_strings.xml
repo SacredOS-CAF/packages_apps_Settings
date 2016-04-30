@@ -16,4 +16,10 @@
     <string name="changelog_title">Changelog</string>
     <string name="changelog_summary">Since the last update</string>
     <string name="changelog_error">Unable to load changelog</string>
+
+    <!-- SacredOS Version -->
+    <string name="sacred_version">SacredOS Version</string>
+    
+    <!-- CAF Revision -->
+    <string name="caf_revision">CAF Revision</string>
 </resources>
