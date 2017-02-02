@@ -179,5 +179,5 @@ public class Settings extends SettingsActivity {
 
     // SacredOS Additions.
     public static class CelestialWaysSettingsActivity extends SettingsActivity {}
-
+    public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
 }

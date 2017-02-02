@@ -39,4 +39,6 @@
     <string name="system_theme_style_light">Light UI</string>
     <string name="system_theme_style_dark">Dark UI</string>
     <string name="system_theme_style_black">Black UI</string>
+
+    <string name="background_processes_settings_title">Background processes</string>
 </resources>
