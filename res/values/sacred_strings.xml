@@ -22,4 +22,7 @@
     
     <!-- CAF Revision -->
     <string name="caf_revision">CAF Revision</string>
+
+    <string name="app_package_name_title">Package</string>
+    <string name="app_version_title">Version</string>
 </resources>
